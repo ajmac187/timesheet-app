@@ -5,4 +5,4 @@ services:
     env: python
     buildCommand: ""
     startCommand: "python app.py"
-    repo: https://github.com/yourusername/timesheet-app
+    repo: https://github.com/ajmac187/timesheet-app
